@@ -9,6 +9,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "desafio1": "file:",
+    "puppeteer": "^23.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7",
     "prettier": "^3.4.1"
   }
 }
